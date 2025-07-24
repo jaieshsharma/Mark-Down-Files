@@ -1,4 +1,4 @@
-\## Paragraph example 
+## Paragraph example 
 This is my first para example.
 
 This is my second paragraph example 
